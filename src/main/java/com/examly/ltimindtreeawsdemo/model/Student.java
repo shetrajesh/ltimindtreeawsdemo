@@ -16,5 +16,6 @@ public class Student {
     private int id;
     private String name;
     private float percentage;
+    private int totalMarks;
 
 }
